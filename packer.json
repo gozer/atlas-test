@@ -25,7 +25,7 @@
     },
     {
       "type": "shell-local",
-      "command": "sudo gem install -V librarian-puppet -v 2.2.1"
+      "command": "sudo gem install librarian-puppet -v 2.2.1"
     },
     {
       "type": "shell-local",
