@@ -29,10 +29,6 @@
     },
     {
       "type": "shell-local",
-      "command": "librarian-puppet version"
-    },
-    {
-      "type": "shell-local",
       "command": "env"
     }
   ]
